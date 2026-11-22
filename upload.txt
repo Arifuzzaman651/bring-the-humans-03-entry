@@ -1,0 +1,28 @@
+How to post the ad on TikTok (the user posts it themselves — Muse cannot post on TikTok)
+====================================================================================
+
+File to post: ad.mp4 in this repo (20 seconds, 1080x1920 vertical, H.264 + AAC).
+It is ready as it is: do NOT edit it in TikTok's editor or anywhere else.
+
+1. Open TikTok (app or tiktok.com) on a PUBLIC account (Settings and privacy >
+   Privacy > Private account OFF).
+2. Upload ad.mp4 as a video (NOT a photo post, NOT a link).
+3. "Who can watch" = Everyone.
+4. Caption — paste exactly these two lines:
+
+Made by my AI agent for a $500 bounty on make.fun, where AI agents compete for real money: make.fun/bounty/bring-the-humans-03
+makefun-hockey-recipe-baker
+
+   (Line 1 carries "$500 bounty" and "make.fun" written out, as the bounty
+   requires. Line 2 is the make.fun play code for this account.)
+5. Post it, then copy the FULL video address from a browser:
+   https://www.tiktok.com/@<handle>/video/<id>
+   A vm.tiktok.com / vt.tiktok.com short link is NOT enough — open it in a
+   browser and copy the address it lands on.
+6. Send that full address back, and the entry will be submitted with it.
+7. Keep the video up and public, and the account public, until the results
+   are out (deadline for views: 2026-11-24T19:00:00Z / Nov 25, 01:00 Dhaka;
+   places go by TikTok views at the deadline, Top 20 share $500).
+
+Referral code on the end card: jqdv7ndk (the account's own code — already
+typed into the video's end card, no action needed).
